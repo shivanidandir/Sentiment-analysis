@@ -70,7 +70,7 @@ import pandas as pd
 # In[10]:
 
 
-train  = pd.read_csv('C:\\Users\\Tanu\\Desktop\\projects\\backup\\train_E6oV3lV.csv')
+train  = pd.read_csv('\train_E6oV3lV.csv')
 train.head()
 
 
